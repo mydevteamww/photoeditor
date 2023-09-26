@@ -9,8 +9,11 @@
   "short_name": "Elite Photo Editor Pro",
   "start_url": "/",
   "theme_color": "#ffffff",
-  "categories": [],
-  "screenshots": [],
+  "categories": [
+    "entertainment",
+    "personalization",
+    "productivity"
+  ],
   "screenshots": [
     {
       "src": "images/screenshot1.png",
@@ -45,6 +48,7 @@
       "purpose": "any"
     }
   ],
+  "shortcuts": [
     {
       "name": "Elite Photo Editor Pro",
       "url": "",
