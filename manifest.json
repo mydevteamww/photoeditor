@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Elite - Photo Editor Pro",
+  "description": "Elite Photo Editor Pro",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Elite - Photo Editor Pro",
+  "name": "Elite Photo Editor Pro",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Elite - Photo Editor Pro",
+  "short_name": "Elite Photo Editor Pro",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [],
@@ -46,7 +46,7 @@
     }
   ],
     {
-      "name": "Elite - Photo Editor Pro",
+      "name": "Elite Photo Editor Pro",
       "url": "",
       "description": ""
     }
