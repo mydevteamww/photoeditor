@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Elite Photo Editor Pro",
+  "description": "Logic Loom Creations",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Elite Photo Editor Pro",
+  "name": "PicCraft Pro",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Elite Photo Editor Pro",
+  "short_name": "PicCraft Pro",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -50,7 +50,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Elite Photo Editor Pro",
+      "name": "PicCraft Pro",
       "url": "",
       "description": ""
     }
