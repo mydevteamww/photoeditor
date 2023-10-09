@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Logic Loom Creations",
+  "description": "Nexus Nova Games",
   "dir": "ltr",
   "display": "standalone",
-  "name": "PicCraft Pro",
+  "name": "WinPhoto Pro",
   "orientation": "any",
   "scope": "/",
-  "short_name": "PicCraft Pro",
+  "short_name": "WinPhoto Pro",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -50,7 +50,7 @@
   ],
   "shortcuts": [
     {
-      "name": "PicCraft Pro",
+      "name": "WinPhoto Pro",
       "url": "",
       "description": ""
     }
